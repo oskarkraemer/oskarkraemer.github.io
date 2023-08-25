@@ -1,0 +1,5 @@
+baseURL = 'https://oskarkraemer.github.io'
+languageCode = 'en-us'
+title = 'Oskar Krämer'
+
+theme="PaperMod"
