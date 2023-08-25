@@ -1,0 +1,2 @@
+hugo -t PaperMod
+pause
